@@ -21,12 +21,51 @@
     <ClInclude Include="menu2_1.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="menu2_3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="menu2_4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="menu2_5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="menu2_6.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cProgram.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="menu2_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu2_2.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu2_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu2_3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu2_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu2_5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu2_6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu2_7.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu2_7.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
